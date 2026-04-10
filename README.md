@@ -1,0 +1,1 @@
+Systemic quest design case focused on knowledge-gated outcomes, combinatorial progression, and delayed consequences. Player dialogue affects available information, which unlocks or blocks resolution paths. Includes branch recovery, NPC-driven progression, and multiple ways to access the city.
